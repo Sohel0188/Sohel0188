@@ -1,7 +1,13 @@
 ## Hi there 👋
 
 
-**Sohel0188/Sohel0188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a dedicated and passionate Software Developer in progress, with a strong interest in backend development, clean code, and solving real-world problems through technology.
+
+Currently, I’m working at Fara IT Fusion Ltd. as a WordPress Developer, where I build and maintain dynamic websites using tools like Elementor, WooCommerce, and ACF. While this role has helped shape my understanding of web development, my deeper ambition lies in backend engineering.
+
+To pursue that goal, I’ve recently completed a course in Python Django, and I’m now focusing on Data Structures and Algorithms to sharpen my problem-solving skills.
+
+I thrive in collaborative environments and am always eager to learn, grow, and contribute as part of a team. My mission is to continuously improve as a developer and use my skills to create solutions that matter.
 
 Here are some ideas to get you started:
 
