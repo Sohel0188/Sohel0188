@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md.Sohel</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
+**I am a dedicated and passionate Software Developer in progress, with a strong interest in backend development, clean code, and solving real-world problems through technology.
+
+Currently, I’m working at Fara IT Fusion Ltd. as a WordPress Developer, where I build and maintain dynamic websites using tools like Elementor, WooCommerce, and ACF. While this role has helped shape my understanding of web development, my deeper ambition lies in backend engineering.
+
+To pursue that goal, I’ve recently completed a course in Python Django, and I’m now focusing on Data Structures and Algorithms to sharpen my problem-solving skills.
+
+I thrive in collaborative environments and am always eager to learn, grow, and contribute as part of a team. My mission is to continuously improve as a developer and use my skills to create solutions that matter.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohel0188&label=Profile%20views&color=0e75b6&style=flat" alt="sohel0188" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohel0188" alt="sohel0188" /></a> </p>
